@@ -1,4 +1,5 @@
 # GIT-LEARN
 Hello My NAme is Smit
 <br>
-Author:Smit Gandhi
+Author: Smit Gandhi
+Smit Nikhil Gandhi
